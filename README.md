@@ -23,7 +23,7 @@ HTML & CSS (Frontend) 🎨
 
 1️⃣ Clone the Repository
 
- git clone https://github.com/dilip8700/ascii_image_convert_webapp.git
+ git clone [(https://github.com/Kiranrakh/Convert-Images-to-ASCII-Art-with-a-Flask-Web-App-.git)]
  cd ascii_image_convert_webapp
 
 2️⃣ Install Dependencies
